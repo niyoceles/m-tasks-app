@@ -1,2 +1,2 @@
-# todo-mongodb-nodejs
-Todo app using nodejs and mongo db
+# M-Tasks-App
+M-Tasks is the application made by using nodejs and mongo db
